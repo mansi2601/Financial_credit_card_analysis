@@ -1,1 +1,4 @@
+SQL Server was used to design and create the database schema for this project.  
+Tables were created manually and used as data sources in Power BI.  
+Most transformations and analysis were performed in Power BI using Power Query and DAX.
 
